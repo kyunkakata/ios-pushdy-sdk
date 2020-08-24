@@ -23,3 +23,4 @@ sau đó liên hệ Owner của PushdySDK (https://cocoapods.org/pods/PushdySDK)
 ```
 $ pod trunk push --allow-warnings
 ```
+- Các sử dụng Cocapods command line (https://guides.cocoapods.org/making/getting-setup-with-trunk.html)
